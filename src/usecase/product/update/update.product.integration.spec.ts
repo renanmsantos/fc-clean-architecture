@@ -33,6 +33,7 @@ describe("Test create product use case", () => {
     await productRepository.update(product as Product);
 
     const input = {
+      id: expect.any(String),
       name: "Product Changed", 
       price: 10
     };

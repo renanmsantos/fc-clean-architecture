@@ -21,7 +21,7 @@ export default class CreateProductUseCase {
       "a", input.name, input.price
     );
 
-    await this.repository.create(product as Product);
+    await this.repository.update(product as Product);
 
     return {
       id: product.id,

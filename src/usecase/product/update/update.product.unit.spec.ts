@@ -1,6 +1,8 @@
 import UpdateProductUseCase from "./update.product.usecase";
+import { v4 as uuid } from "uuid";
 
 const input = {
+  id: uuid(),
   name: "ProductOne",
   price: 10
 };

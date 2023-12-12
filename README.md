@@ -7,6 +7,8 @@ Da mesma forma que fizemos a criação dos use cases realizando as operações: 
 
 # Desafio 2: API de Products
 
+Da mesma forma que fizemos a listagem dos nossos Customers em nossa API, repita o mesmo processo e realize a listagem de Products. Não deixe de realizar o teste automatizado end-to-end.
+
 # Desafio 3: Notificaiont Pattern em Products
 
 # Desafio 4: Validação de Products
