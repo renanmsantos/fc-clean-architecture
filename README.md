@@ -9,7 +9,7 @@ Da mesma forma que fizemos a criação dos use cases realizando as operações: 
 
 Da mesma forma que fizemos a listagem dos nossos Customers em nossa API, repita o mesmo processo e realize a listagem de Products. Não deixe de realizar o teste automatizado end-to-end.
 
-# Desafio 3: Notification Pattern em Products
+# Desafio 3: Notification Pattern em Products :white_check_mark:
 
 Aprendemos que o notification pattern nos auxilia como um container acumulador de erros para que possamos de uma forma mais simples retornarmos nossos erros todos de uma vez evitando assim a geração excessiva de exceções.
 
