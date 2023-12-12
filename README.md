@@ -17,7 +17,7 @@ Nesse desafio você deverá utilizar o padrão notification em nossa entidade Pr
 
 Adicione um teste que acumule dois erros ao mesmo tempo. 
 
-# Desafio 4: Validação de Products
+# Desafio 4: Validação de Products :white_check_mark:
 
 Agora que aprendemos a criar o processo de validação, bem como minimizar o acoplamento em nosso domínio, você deverá realizar o processo de validação na entidade Product seguindo o mesmo processo.
 
